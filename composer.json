@@ -1,0 +1,28 @@
+{
+  "name": "rustphp/youzan",
+  "description": "zanphp/zan support swoole1.8.8",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "cjj",
+      "email": "cjj8110@163.com"
+    }
+  ],
+  "repositories": [
+    {
+      "type"  : "git",
+      "url"   : "https://github.com/youzan/zan.git"
+    },
+    {
+      "packagist": false
+    },
+    {
+      "type": "composer",
+      "url": "https://packagist.phpcomposer.com"
+    }
+  ],
+  "require": {
+    "zanphp/zan": "dev-master"
+  }
+}
