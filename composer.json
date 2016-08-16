@@ -23,6 +23,6 @@
     }
   ],
   "require": {
-    "zanphp/zan": "dev-master"
+    "zanphp/zan": "master"
   }
 }
