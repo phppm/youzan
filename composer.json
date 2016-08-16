@@ -23,7 +23,7 @@
     }
   ],
   "require": {
-    "zanphp/zan": "master"
+    "zanphp/zan": "dev-master"
   },
   "minimum-stability": "stable"
 }
