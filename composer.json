@@ -12,7 +12,7 @@
   "repositories": [
     {
       "type"  : "git",
-      "url"   : "https://github.com/youzan/zan.git"
+      "url"   : "https://github.com/rustphp/youzan.git"
     },
     {
       "packagist": false
@@ -22,9 +22,6 @@
       "url": "https://packagist.phpcomposer.com"
     }
   ],
-  "require": {
-    "zanphp/zan": "dev-master"
-  },
   "autoload": {
     "psr-4": {
       "com\\imcjj\\youzan\\": "src/com/imcjj/youzan/"
