@@ -25,5 +25,10 @@
   "require": {
     "zanphp/zan": "dev-master"
   },
+  "autoload": {
+    "psr-4": {
+      "com\\imcjj\\youzan\\": "src/com/imcjj/youzan"
+    }
+  },
   "minimum-stability": "stable"
 }
