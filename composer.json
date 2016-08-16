@@ -24,5 +24,6 @@
   ],
   "require": {
     "zanphp/zan": "master"
-  }
+  },
+  "minimum-stability": "stable"
 }
