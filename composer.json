@@ -24,7 +24,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "com\\imcjj\\youzan\\": "src/com/imcjj/youzan/"
+      "com\\imcjj\\youzan\\": "src/"
     }
   }
 }
